@@ -11,9 +11,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação, sempre em busca 
 - 🖥️ VSCODE
 - - 📚 Python | Java
 
- O que estou aprendendo:
-- 🔍 Aprofundando meus conhecimentos em **JavaScript** e **React**
-- 🌱 Explorando o mundo do **desenvolvimento Full Stack**
+ 
 
  📈 Status do GitHub:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
