@@ -21,7 +21,3 @@ Sou um desenvolvedor apaixonado por tecnologia e programação, sempre em busca 
 - 💼 https://www.instagram.com/dih_ss10/
 - 🚀 Sempre aberto para colaborações em projetos incríveis!
 
---
-diogodasilva10/diogodasilva10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
