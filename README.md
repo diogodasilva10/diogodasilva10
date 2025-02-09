@@ -1,10 +1,4 @@
 
-
- 👋 Olá, sou Diogo da Silva!
-
- Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia e programação, sempre em busca de novos desafios e aprendizados. Atualmente, estou focado em melhorar minhas habilidades em desenvolvimento web e exploração de diferentes linguagens de programação.
-
  Linguagens e Tecnologias:
 - 🌐 HTML | CSS | JavaScript
 - 🛠️ Git | GitHub
