@@ -1,4 +1,5 @@
 Sou um desenvolvedor Front-end
+
  Linguagens e Tecnologias:
 - 🌐 HTML | CSS | JavaScript
 - 🛠️ Git | GitHub
